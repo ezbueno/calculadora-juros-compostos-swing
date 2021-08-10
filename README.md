@@ -1,10 +1,12 @@
-# Calculadora para cálculo de juros compostos
+<p>
+Calculadora para cálculo de juros compostos
+</p>
 
-- Tecnologia utilizada:
+# Tecnologia utilizada:
 * Java SE (Versão 16) e Swing
 
-- Ferramenta:
+# Ferramenta:
 * Spring Tool Suite
 
 
-- Foi utilizadoa classe BigDecimal em substituição aos tipos primitivos double e float.
+- Foi utilizado a classe BigDecimal em substituição aos tipos primitivos double e float.
