@@ -1,6 +1,4 @@
-<p>
 # Calculadora para cálculo de juros compostos
-</p>
 
 # Tecnologia utilizada:
 * Java SE (Versão 16) e Swing
