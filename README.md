@@ -1,5 +1,5 @@
 <p>
-Calculadora para cálculo de juros compostos
+# Calculadora para cálculo de juros compostos
 </p>
 
 # Tecnologia utilizada:
@@ -9,4 +9,5 @@ Calculadora para cálculo de juros compostos
 * Spring Tool Suite
 
 
-- Foi utilizado a classe BigDecimal em substituição aos tipos primitivos double e float.
+# Observação:
+* Foi utilizado a classe BigDecimal em substituição aos tipos primitivos double e float.
